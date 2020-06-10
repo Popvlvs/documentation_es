@@ -1,5 +1,5 @@
 # Documentación AREDN
-Este repositorio agrupa la documentación en español para el proyecto AREDN, de forma que pueda disponobilizarse en ReadTheDocs.
+Este repositorio agrupa la documentación en español para el proyecto AREDN, de forma que pueda disponobilizarse en `ReadTheDocs`.
 
 ## ¿Cómo puedo colaborar con la traducción?:
 Puedes colaborar con la traducción simplemente utilizando el editor de documentos de la Web de GitHub. En la esquina superior derecha de todos los textos del repositorio, aparece un lápiz. Haciendo click ahí se nos abrirá un editor web en el que podremos modificar el archivo.
