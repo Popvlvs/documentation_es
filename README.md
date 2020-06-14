@@ -1,5 +1,5 @@
 # Documentación de AREDN
-Este repositorio agrupa la documentación en español para el proyecto AREDN, de forma que pueda disponobilizarse en `ReadTheDocs`.
+Este repositorio agrupa la documentación en español para el proyecto AREDN, de forma que pueda disponibilizarse en `ReadTheDocs`.
 
 
 ## ¿Cómo puedo colaborar con la traducción?
