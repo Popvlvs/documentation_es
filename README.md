@@ -4,7 +4,7 @@ Este repositorio agrupa la documentación en español para el proyecto AREDN®, 
 
 ## ¿Cómo puedo colaborar con la traducción?
 Puedes colaborar con la traducción simplemente utilizando el editor de documentos de la Web de GitHub. En la esquina superior derecha de todos los textos del repositorio, aparece un lápiz. Haciendo click ahí se nos abrirá un editor web en el que podremos modificar el archivo.
-Una vez estemos contentos con nuestra edición, podemos hacel el 'commit' desde la parte de abajo de esa misma página. Por favor, acompaña tu colaboración de una buena descripción de los cambios y/o traducciones realizados. 
+Una vez estemos contentos con nuestra edición, podemos hacel el `commit` desde la parte de abajo de esa misma página. Por favor, acompaña tu colaboración de una buena descripción de los cambios y/o traducciones realizados. 
 
 Si queremos añadir un poco de estilo al documento, podemos utilizar markdown para enriquecer el texto. Podrás encontrar más detalles en [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
@@ -14,7 +14,7 @@ Para ver la documentación del proyecto en un navegador, visita [https://arednme
 
 
 ## Exportar a PDF / Epub
-Mientras consultas la documentación de AREDN® en tu navegador, tendrás disponible un índice de contenido en el panel izquierdo. En la parte baja de ese panel lateral podrás encontrar un botón etiquetado como `ReadTheDocs`, que muestra la versión actual. Haz click en ese botón y tendrás la opción de exportar el contenido a un fichero PDF o Epub.
+Mientras consultas la documentación de AREDN® en tu navegador, tendrás disponible un índice de contenido en el panel izquierdo. En la parte baja de ese panel lateral podrás encontrar un botón etiquetado como `ReadTheDocs`, que muestra la versión actual. Haz click en ese botón y tendrás la opción de exportar el contenido a un fichero `PDF` o `Epub`.
 Se trata de una opción verdaderamente útil, pues te permitirá tener en campo una versión actualizada de la guía, incluso cuando no dispongas de acceso a Internet. 
 
 
