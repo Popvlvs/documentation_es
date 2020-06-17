@@ -28,7 +28,7 @@ En este momento puedes hacer un `push` a tu repositorio de GitHub (el `fork` rea
 
 3. Desde tu ordenador de desarrollo, donde previamente habrás instalado `Git`, haz un `clone` del repositorio que acabas de crear
 
-	> git clone https://github.com/TuUsuarioVaEscritoAqui/aredn_ar71xx
+	> git clone https://github.com/{TuNombreDeUsuario}/aredn_ar71xx
 
 4. El directorio llamado `aredn_ar71xx` ahora contiene una copia en local del proyecto oficial
 
