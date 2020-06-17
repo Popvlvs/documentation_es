@@ -28,15 +28,15 @@ En este momento puedes hacer un `push` a tu repositorio de GitHub (el `fork` rea
 
 3. Desde tu ordenador de desarrollo, donde previamente habrás instalado `Git`, haz un `clone` del repositorio que acabas de crear
 
-> git clone https://github.com/TuUsuarioVaEscritoAqui/aredn_ar71xx
+	> git clone https://github.com/TuUsuarioVaEscritoAqui/aredn_ar71xx
 
 4. El directorio llamado `aredn_ar71xx` ahora contiene una copia en local del proyecto oficial
 
-> cd aredn_ar71xx
+	> cd aredn_ar71xx
 
 5. Por último, configura en tu entorno local el repositorio `master` del proyecto
 
-> git remote add aredn https://github.com/aredn/aredn_ar71xx
+	> git remote add aredn https://github.com/aredn/aredn_ar71xx
 
 ### Proceso cíclico de desarollo
 
@@ -44,15 +44,15 @@ En este momento puedes hacer un `push` a tu repositorio de GitHub (el `fork` rea
 
 	1. Sitúate directorio de desarrollo
 	
-	>> git checkout develop
+		> git checkout develop
 	
 	2. Sincroniza los últimos cambios
 	
-	>> git pull aredn develop
+		> git pull aredn develop
 	
 2. Crea tu propia rama local, donde implementarás las nuevas funciones y/o correcciones
 
-> git checkout -b mi_funcionalidad
+	> git checkout -b mi_funcionalidad
 
 3. Realiza los desarrollos que desees, y verifica firmemente que funcionan correctamente
 
@@ -60,27 +60,27 @@ En este momento puedes hacer un `push` a tu repositorio de GitHub (el `fork` rea
 
 	1. En primer lugar, salva los cambios
 	
-	>> git stash
+		> git stash
 	
 	2. Sitúate en el directorio de desarollo
 	
-	> git checkout develop
+		> git checkout develop
 	
 	3. Sincroniza los últimos cambios
 	
-	> git pull aredn develop
+		> git pull aredn develop
 	
 	4. Ahora sitúate en el directorio de la funcionalidad o corrección que pretendes aplicar
 	
-	> git checkout mi_funcionalidad
+		> git checkout mi_funcionalidad
 	
 	5. Mueve tu trabajo a la rama principal de desarrollo
 	
-	> git rebase develop
+		> git rebase develop
 	
 	6. Aplica tu desarrollo
 	
-	> git stash pop
+		> git stash pop
 	
 	7. Si eres alertado de que existen conflictos, debes de resolverlos en este momento
 	
@@ -88,21 +88,21 @@ En este momento puedes hacer un `push` a tu repositorio de GitHub (el `fork` rea
 	
 5. Traslada el desarrollo realizado a tu repositorio local, mediante un `commit`
 
-> git commit -m "Descripción de los cambios realizados"
+	> git commit -m "Descripción de los cambios realizados"
 
 6. Actualiza el repositorio en tu cuenta de GitHub (recuerda, se trata de un `fork` del `master` de AREDN®)
 
-> git push origin mi_funcionalidad
+	> git push origin mi_funcionalidad
 
 7. Finalmente, tendrás que enviar los cambios desde tu `fork` personal hasta el repositorio `master` de AREDN®
 
 	1. Accede al repositorio en tu cuenta personal (`fork` del `master`)
 	
-	> https://github.com/{TuNombreDeUsuario}/aredn_ar71xx
+		> https://github.com/{TuNombreDeUsuario}/aredn_ar71xx
 	
 	2. Selecciona la rama que acabas de desarrollar
 	
-	> mi_funcionalidad (_siguiendo la nomenclatura utilizada durante toda la explación_)
+		> mi_funcionalidad (_siguiendo la nomenclatura utilizada durante toda la explación_)
 	
 	3. Pincha sobre el botón `new pull request`
 	
@@ -112,15 +112,15 @@ En este momento puedes hacer un `push` a tu repositorio de GitHub (el `fork` rea
 
 	1. Primero, borra en tu copia local
 	
-	> git branch -D mi_funcionalidad
+		> git branch -D mi_funcionalidad
 	
 	2. A continuación, en el `fork` de tu cuenta personal
 	
-	> git push origin --delete mi_funcionalidad
+		> git push origin --delete mi_funcionalidad
 
 Para cualquier nuevo desarrollo o corrección que quieras realizar sobre el proyecto, tendrás que seguir los pasos anteriormente descritos.
 
-### Revision del trabajo de otros colaboradores
+### Revisión del trabajo por parte de otros colaboradores
 Para poder asegurarnos de que las contribuciones tienen la mayor calidad posible, es bueno que exista un proceso de revisión que permita introducir cambios de última hora. Esto se realiza durante la fase de `pull request`. Por tanto, antes de que nuestra petición sea aceptada o denegada, quedará abierta a comentarios y propuestas.
 
 En este sentido, es aconsejable leer [cómo comentar una `pull request`](https://help.github.com/es/github/collaborating-with-issues-and-pull-requests/commenting-on-a-pull-request)
