@@ -4,8 +4,11 @@ Para contribuir con el proyecto AREDN®, primero debes registrarte en GitHub, al
 A continuación se detalla el proceso de registro:
 
 1. Accede a [GitHub](https://www.github.com) desde tu navegador
+
 2. Desde esa misma página podrás registrarte, proporcionando un nombre de usuario (como sugerencia, incluye tu indicativo), e-mail y contraseña
+
 3. Una vez estés registrado, podrás acceder a tu cuenta personal a través del botón `Sign In`
+
 4. Utilizando el buscador situado en la esquina superior izquierda podrás acceder a todo el material del proyecto AREDN®. Si sólo estás interesado en los firmware, [aquí](https://github.com/aredn/aredn_ar71xx) encontrarás el repositorio
 
 ## El ciclo de trabajo en GitHub
@@ -41,11 +44,11 @@ En este momento puedes hacer un `push` a tu repositorio de GitHub (el `fork` rea
 
 	1. Sitúate directorio de desarrollo
 	
-	> git checkout develop
+	>> git checkout develop
 	
 	2. Sincroniza los últimos cambios
 	
-	> git pull aredn develop
+	>> git pull aredn develop
 	
 2. Crea tu propia rama local, donde implementarás las nuevas funciones y/o correcciones
 
@@ -57,7 +60,7 @@ En este momento puedes hacer un `push` a tu repositorio de GitHub (el `fork` rea
 
 	1. En primer lugar, salva los cambios
 	
-	> git stash
+	>> git stash
 	
 	2. Sitúate en el directorio de desarollo
 	
