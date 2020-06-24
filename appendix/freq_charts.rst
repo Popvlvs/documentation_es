@@ -1,8 +1,8 @@
-========================
-Frequencies and Channels
-========================
+======================
+Frecuencias y canales
+======================
 
-The frequencies and channels that are available for AREDN |trade| networking are shown in the charts below.
+Las frecuencias y canales disponibles para la red AREDN |trade| se muestran a continuación.
 
 **2.4 GHz**
 
