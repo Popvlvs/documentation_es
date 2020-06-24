@@ -4,7 +4,7 @@ Este repositorio agrupa la documentación en español para el proyecto AREDN®, 
 
 ## ¿Cómo puedo colaborar con la traducción?
 Puedes colaborar con la traducción simplemente utilizando el editor de documentos de la Web de GitHub. En la esquina superior derecha de todos los textos del repositorio, aparece un lápiz. Haciendo click ahí se nos abrirá un editor web en el que podremos modificar el archivo.
-Una vez estemos contentos con nuestra edición, podemos hacel el `commit` desde la parte de abajo de esa misma página. Por favor, acompaña tu colaboración de una buena descripción de los cambios y/o traducciones realizados. 
+Una vez estemos contentos con nuestra edición, podemos hacer el `commit` desde la parte de abajo de esa misma página. Por favor, acompaña tu colaboración de una buena descripción de los cambios y/o traducciones realizados. 
 
 Si queremos añadir un poco de estilo al documento, podemos utilizar markdown para enriquecer el texto. Podrás encontrar más detalles en [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
