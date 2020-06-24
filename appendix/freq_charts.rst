@@ -12,7 +12,7 @@ Las frecuencias y canales disponibles para la red AREDN |trade| se muestran a co
 
 **3.4 GHz**
 
-.. image:: _images/3.4ghz_es.png
+.. image:: _images/3.4ghz_es_v3.png
    :alt: Canales en 3.4 GHz
    :align: center
 
