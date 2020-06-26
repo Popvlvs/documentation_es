@@ -1,12 +1,18 @@
-======================
-AREDN |trade| Overview
-======================
+====================================
+Información general de AREDN |trade|
+====================================
 
 The AREDN |trade| acronym stands for "Amateur Radio Emergency Data Network" and it provides a way for *Amateur Radio* operators to create high-speed ad hoc *Data Networks* for use in *Emergency* and service-oriented communications.
 
+AREDN |trade| es un acrónimo que significa *Amateur Radio Emergency Data Network* (cuya traducción al español sería *Red de Datos de Emergencia Radio Amateur*). Proporciona los mecanismos necesarios para que operadores de radio amateur establezcan una red de datos de alta velocidad ``ad-hoc``, que podrá ser utilizada tanto por comunicaciones de emergencia como por comunicaciones orientadas a servicio.
+
 For many years amateur radio operators and their served agencies have relied on voice transmissions for emergency or event communications. A typical message-passing scenario involved conveying the message to a radio operator who would write or type it onto a standard ICS-213 form. The message would then be relayed by radio to another operator who would write or type it on another ICS-213 form at the receiving end. The form would typically be hand-delivered to the recipient who would read and sign the form. Any acknowledgement or reply would then be handled through the same process from the receiving end back to the originator.
 
+Durante muchos años, los operadores de radio amateur, así como sus agencias relacionadas, han confiado sus comunicaciones de emergencia a las transmisiones de voz. Un escenario típico de intercambio de mensajes involucraría la transmisión de la información a un operador radio, que la anotaría en un formulario estándar ISC-213. Este mensaje sería retransmitido de nuevo, involucrando a un nuevo operador en recepción y su correspondiente formulario ISC-213. El destinatario final recibiría el formulario en mano, para su lectura y firmado. Cualquier acuse de recibo o respuesta se manejaría de este mismo modo, pero en sentido opuesto.
+
 This tried-and-true scenario has worked well, and it continues to work for handling much emergency and event traffic. Today, however, digital transmission is more commonly used instead of traditional methods and procedures. The hardcopy ICS-213 form is giving way to the Winlink electronic form, with messages being passed using digital technologies such as AX.25 packet, HF Pactor, Fldigi, and others.
+
+
 
 .. sidebar:: Our Mission
 
