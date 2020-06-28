@@ -10,7 +10,7 @@ Este escenario ha demostrado con creces que puede funcionar bien y, de hecho, to
 
 .. sidebar:: Nuestra misión
 
-El objetivo principal del proyecto AREDN |trade| es el de posibilitar a operadores de radio amateur con licencia el despliege rápido y sencillo de redes de datos de alta velocidad, cuándo y dónde sean necesarias.
+    El objetivo principal del proyecto AREDN |trade| es el de posibilitar a operadores de radio amateur con licencia el despliege rápido y sencillo de redes de datos de alta velocidad, cuándo y dónde sean necesarias.
 
 Dentro del escenario tecnológico social actual, la gente se ha acostumbrado a manejar sus necesidades de comunicación de múltiples maneras. En primer lugar se situan el intercambio de mensajes cortos y la comunicación *teclado a teclado*, seguidos por la videollamada sobre VoIP (Voz sobre IP) y otras tecnologías de streaming.
 
@@ -18,7 +18,7 @@ La comunidad radio amateur es capaz de alcanzar los requisitos necesarios de ban
 
 Una red AREDN |trade| es capaz de proporcionar el mecanismo de transporte para cualquier aplicación de comunicación, dentro de un flujo normal de negocio e interacción social (email, chat, servicio telefónico, intercambio de ficheros, videoconferencia, ...). Dependiendo de las características particulares del despliegue, la red podría operar a velocidad cercanas a Internet, con distancias de decenas de kilómetros entre nodos.
 
-AREDN |trade| pretende prestar servicio tanto a la comunidad general, como a la afición en particular. Esto es especialmente importante cuando los servicios esenciales tradicionales dejan de estar disponibles (electricidad, lineas telefónicas, o Internet). En esos casos, una *Red de Datos de Emergencia Radio Amateur* puede actuar como salvavidas para una comunidad impactada por un desastre.
+El objetivo principal del proyecto AREDN |trade| es el de posibilitar a operadores de radio amateur con licencia el despliege rápido y sencillo de redes de datos de alta velocidad, buscando prestar servicio tanto a la comunidad general, como a la afición en particular. Esto es especialmente importante cuando los servicios esenciales tradicionales dejan de estar disponibles (electricidad, lineas telefónicas, o Internet). En esos casos, una *Red de Datos de Emergencia Radio Amateur* puede actuar como salvavidas para una comunidad impactada por un desastre.
 
 
 .. |trade|  unicode:: U+00AE .. Registered Trademark SIGN
