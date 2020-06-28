@@ -10,7 +10,7 @@ Este escenario ha demostrado con creces que puede funcionar bien y, de hecho, to
 
 .. sidebar:: Nuestra misión
 
-    El objetivo principal del proyecto AREDN |trade| es el de posibilitar a operadores de radio amateur con licencia el despliege rápido y sencillo de redes de datos de alta velocidad, cuándo y dónde sean necesarias.
+   El objetivo principal del proyecto AREDN |trade| es el de posibilitar a operadores de radio amateur con licencia el despliege rápido y sencillo de redes de datos de alta velocidad, cuándo y dónde sean necesarias.
 
 Dentro del escenario tecnológico social actual, la gente se ha acostumbrado a manejar sus necesidades de comunicación de múltiples maneras. En primer lugar se situan el intercambio de mensajes cortos y la comunicación *teclado a teclado*, seguidos por la videollamada sobre VoIP (Voz sobre IP) y otras tecnologías de streaming.
 
